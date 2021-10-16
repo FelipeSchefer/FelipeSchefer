@@ -50,6 +50,13 @@ within where we work.
 - ⚡ Fun fact: I come from being an electronic technician who only spoke Portuguese to a multilingual and developer
 in basically 3 years.
 
+![image](https://user-images.githubusercontent.com/48191318/137594537-03e32d25-3100-454e-b713-89cf752f7cbb.png)
+![image](https://user-images.githubusercontent.com/48191318/137594738-7a6cf264-f9d3-4952-b7b0-e589ce12df77.png)
+![image](https://user-images.githubusercontent.com/48191318/137594790-2df7b2eb-bf57-450a-b9e9-b9bd7ca1c28e.png)
+![image](https://user-images.githubusercontent.com/48191318/137594816-e63b165d-609c-4ff3-8fca-ba0ec43f8255.png)
+![image](https://user-images.githubusercontent.com/48191318/137594836-5630cd78-f0e8-443b-84a3-4f8aaca9118f.png)
+
+
 
 _**Languages**_  | _**Level**_
 :--------- | :------
@@ -58,5 +65,5 @@ English    | Advanced
 Spanish    | Advanced
 French     | Beginner
 Japanese   | Very beginner 
-
+  
 
