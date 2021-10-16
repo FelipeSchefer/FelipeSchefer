@@ -1,21 +1,10 @@
-### Hi there 👋
+#### Hi there! 👋 <h4>
 
 <!--
 **FelipeSchefer/FelipeSchefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-## Oi eu sou a Felipe Teixeira Schefer sou Analista e desenvolvidor de sistemas!
+## Hi I am Felipe Teixeira Schefer I'm System Analist and Developer!
 <div align="center">
   <a href="https://github.com/FelipeSchefer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSchefer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -34,7 +23,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Felipe-MySQL" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg">
 <!--   <img align="center" alt="Felipe-Docker" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg">
   <img align="center" alt="Felipe-Docker" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg"> -->
-  <img align="right" alt="Felipe-Picture" height="150" style="border-radius:50px;" src="https://github.com/FelipeSchefer/FelipeSchefer/blob/main/ezgif-7-8945f1606f5d.gif">  
+  <img align="right" alt="Felipe-Picture" height="150" style="border-radius:50px;" src="https://github.com/FelipeSchefer/FelipeSchefer/blob/main/ezgif-7-8945f1606f5d.gif">
 </div>
 
   ##
@@ -58,4 +47,18 @@ Here are some ideas to get you started:
     - 📫 How to reach me: you can click on one of the above option.
     - ⚡ Fun fact: I come from being an eletronic technician who only spoke portuguese to a multilingual and developer
     in basically 3 years.
+
+  <br/>
+  
+  ##
+  
+  
+
+    languages | Nivel
+    --------- | ------
+    Portugues | Native
+    English   | Advanced
+    Spanish   | Advanced
+    French    | Beginner
+    Japanese  | Very beginner 
 
