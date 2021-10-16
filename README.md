@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Felipe-MySQL" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg">
 <!--   <img align="center" alt="Felipe-Docker" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg">
   <img align="center" alt="Felipe-Docker" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg"> -->
-  
+  <img align="right" alt="Felipe-Picture" height="150" style="border-radius:50px;" src="https://github.com/FelipeSchefer/FelipeSchefer/blob/main/ezgif-7-8945f1606f5d.gif">
   
   
 </div>
