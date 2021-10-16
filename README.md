@@ -43,7 +43,7 @@
 
 - 🔭 I’m currently searching for new opportunities.
 - 🌱 I’m currently learning React, Node.js, and TypeScript.
-- 👯 I’m looking to collaborate on with companies and people that want to help each other to build something great
+- 👯 I’m looking to collaborate with companies and people that want to help each other to build something great
 within where we work.
 - 💬 Ask me about my plans and interests.
 - 📫 How to reach me: you can click on one of the above options.
