@@ -4,7 +4,7 @@
 **FelipeSchefer/FelipeSchefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### I am Felipe Teixeira Schefer I'm System Analist and Developer! <h3>
+### I am Felipe Teixeira Schefer and I'm Software Developer <h3>
 
 <div align="center">
   <a href="https://github.com/FelipeSchefer">
@@ -42,16 +42,16 @@
   
 
 - 🔭 I’m currently searching for new opportunities.
-- 🌱 I’m currently learning React, Node.js and TypeScript.
+- 🌱 I’m currently learning React, Node.js, and TypeScript.
 - 👯 I’m looking to collaborate on with companies and people that want to help each other to build something great
-withing where we work.
+within where we work.
 - 💬 Ask me about my plans and interests.
-- 📫 How to reach me: you can click on one of the above option.
-- ⚡ Fun fact: I come from being an eletronic technician who only spoke portuguese to a multilingual and developer
+- 📫 How to reach me: you can click on one of the above options.
+- ⚡ Fun fact: I come from being an electronic technician who only spoke Portuguese to a multilingual and developer
 in basically 3 years.
 
 
-_**Languages**_  | _**Nivel**_
+_**Languages**_  | _**Level**_
 :--------- | :------
 Portugues  | Native
 English    | Advanced
