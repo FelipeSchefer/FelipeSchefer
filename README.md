@@ -1,10 +1,11 @@
-#### Hi there! 👋 <h4>
+# Hi there! 👋 
 
 <!--
 **FelipeSchefer/FelipeSchefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Hi I am Felipe Teixeira Schefer I'm System Analist and Developer!
+### I am Felipe Teixeira Schefer I'm System Analist and Developer! <h3>
+
 <div align="center">
   <a href="https://github.com/FelipeSchefer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSchefer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -35,30 +36,27 @@
 <!--  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
   <a href = "felipe_official@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-s-2b5735115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
 <br/>
-  
-    - 🔭 I’m currently searching for new opportunities.
-    - 🌱 I’m currently learning React, Node.js and TypeScript.
-    - 👯 I’m looking to collaborate on with companies and people that want to help each other to build something great
-    withing where we work.
-    - 💬 Ask me about my plans and interests.
-    - 📫 How to reach me: you can click on one of the above option.
-    - ⚡ Fun fact: I come from being an eletronic technician who only spoke portuguese to a multilingual and developer
-    in basically 3 years.
 
-  <br/>
-  
-  ##
-  
   
 
-    languages | Nivel
-    --------- | ------
-    Portugues | Native
-    English   | Advanced
-    Spanish   | Advanced
-    French    | Beginner
-    Japanese  | Very beginner 
+- 🔭 I’m currently searching for new opportunities.
+- 🌱 I’m currently learning React, Node.js and TypeScript.
+- 👯 I’m looking to collaborate on with companies and people that want to help each other to build something great
+withing where we work.
+- 💬 Ask me about my plans and interests.
+- 📫 How to reach me: you can click on one of the above option.
+- ⚡ Fun fact: I come from being an eletronic technician who only spoke portuguese to a multilingual and developer
+in basically 3 years.
+
+
+_**Languages**_  | _**Nivel**_
+:--------- | :------
+Portugues  | Native
+English    | Advanced
+Spanish    | Advanced
+French     | Beginner
+Japanese   | Very beginner 
+
 
