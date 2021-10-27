@@ -46,7 +46,7 @@
 - 🔭 I’m currently searching for new opportunities.
 - 🌱 I’m currently learning React, Node.js, and TypeScript.
 - 👯 I’m looking to collaborate with companies and people that want to help each other to build something great
-within where we work.
+wherever we work.
 - 💬 Ask me about my plans and interests.
 - 📫 How to reach me: you can click on one of the above options.
 - ⚡ Fun fact: I come from being an electronic technician who only spoke Portuguese to a multilingual and developer
