@@ -51,7 +51,9 @@ wherever we work.
 - 📫 How to reach me: you can click on one of the above options.
 - ⚡ Fun fact: I come from being an electronic technician who only spoke Portuguese to a multilingual and developer
 in basically 3 years.
-
+- 👨🏻‍💻 I've been programming since 2019
+- 👨🏻 My name is Felipe but you can call me "Philip". 
+  
 ![image](https://user-images.githubusercontent.com/48191318/137594537-03e32d25-3100-454e-b713-89cf752f7cbb.png)
 ![image](https://user-images.githubusercontent.com/48191318/137594738-7a6cf264-f9d3-4952-b7b0-e589ce12df77.png)
 ![image](https://user-images.githubusercontent.com/48191318/137594790-2df7b2eb-bf57-450a-b9e9-b9bd7ca1c28e.png)
