@@ -49,7 +49,7 @@
 wherever we work.
 - 💬 Ask me about my plans and interests.
 - 📫 How to reach me: you can click on any of the above options.
-- ⚡ Fun fact: I come from being an electronic technician who only spoke Portuguese to a multilingual and developer
+- ⚡ Fun fact: I come from being an electronic technician who only knew how to speak Portuguese to a multilingual and developer
 in basically 3 years.
 
  
