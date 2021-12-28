@@ -48,7 +48,7 @@
 - 👯 I’m looking to collaborate with companies and people that want to help each other to build something great
 wherever we work.
 - 💬 Ask me about my plans and interests.
-- 📫 How to reach me: you can click on one of the above options.
+- 📫 How to reach me: you can click on any of the above options.
 - ⚡ Fun fact: I come from being an electronic technician who only spoke Portuguese to a multilingual and developer
 in basically 3 years.
 
