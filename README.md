@@ -45,7 +45,7 @@
 - 👨🏻‍💻 I've been programming since 2019.
 - 🔭 I’m currently searching for new opportunities.
 - 🌱 I’m currently learning React, Node.js, and TypeScript.
-- 👯 I’m looking to collaborate with companies and people that want to help each other to build something great
+- 👯 I’m looking forward to meeting other Devs and work with and learn from them, and of course in a collaborative way.
 wherever we work.
 - 💬 Ask me about my plans and interests.
 - 📫 How to reach me: you can click on any of the above options.
