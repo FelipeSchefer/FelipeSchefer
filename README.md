@@ -4,7 +4,7 @@
 **FelipeSchefer/FelipeSchefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### I am Felipe Teixeira Schefer and I'm Software Developer <h3>
+### I am Felipe Teixeira Schefer <h3>
 
 <div align="center">
   <a href="https://github.com/FelipeSchefer">
