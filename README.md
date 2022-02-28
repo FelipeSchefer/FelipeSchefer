@@ -41,7 +41,7 @@
 </div>
 <br/>
 
-- 👨🏻 My name is Felipe but you can call me "Philip".  
+- 👨🏻 My name is Felipe but you can call me "Philip" or for short "Phi".  
 - 👨🏻‍💻 I've been programming since 2019.
 - 🔭 I’m currently searching for new opportunities.
 - 🌱 I’m currently learning React, Node.js, and TypeScript.
