@@ -44,7 +44,7 @@
 - 👨🏻 My name is Felipe but you can call me "Philip" or for short "Phi".  
 - 👨🏻‍💻 I've been programming since 2019.
 - 🔭 I’m currently an intern at OrderBy a tech company in Brazil I develop in Java.
-- 🌱 I’m currently learning React, Node.js, and TypeScript.
+- 🌱 I’m currently learning React, Node.js, and Java.
 - 👯 I’m looking forward to meeting other Devs and work with and learn from them, and of course in a collaborative way.
 wherever we work.
 - 💬 Ask me about my plans and interests.
