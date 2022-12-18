@@ -39,20 +39,19 @@
  	<a href="https://twitter.com/Felipe46038819" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <!--  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
   <a href = "felipe_official@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-s-2b5735115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/felipe-schefer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br/>
 
-- 👨🏻 My name is Felipe but you can call me "Philip" or for short "Phi".  
+- 👨🏻 My name is Felipe but you can call me "Philip" or "Phi" for short.  
 - 👨🏻‍💻 I've been programming since 2019.
-- 🔭 I’m currently unemployeed and my last work was at a tech company in Brazil where workded as a Java developer.
+- 🔭 I’m currently unemployeed. My last work was at a tech company in Brazil where workded as a Java developer.
 - 🌱 I’m currently learning React, Node.js, and TypeScript.
-- 👯 I’m looking forward to meeting other Devs and work with and learn from them, and of course in a collaborative way.
-wherever we work.
+- 👯 I’m looking forward to meeting, working with, and learning from other Devs.
 - 💬 Ask me about my plans and interests.
 - 📫 How to reach me: you can click on any of the above options.
-- ⚡ Fun fact: I come from being an electronic technician who only knew how to speak Portuguese to a multilingual and developer
-in basically 3 years.
+- ⚡ Fun fact: I come from being an electronic technician, who only knew how to do that and to speak his own native language to a polyglot and developer
+within basically 3 years, and I'm very praid of that.
 
  
   
