@@ -7,9 +7,10 @@
 ### I am Felipe Teixeira Schefer <h3>
 
 <div align="center">
+  #### Technologies I am used to work with:
   <a href="https://github.com/FelipeSchefer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSchefer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSchefer&layout=compact&langs_count=7&theme=dracula"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSchefer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSchefer&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,7 +31,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-w
   <img align="center" alt="Felipe-MySQL" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg">
 <!--   <img align="center" alt="Felipe-Docker" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg">
   <img align="center" alt="Felipe-Linux" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg"> -->
-  <img align="right" alt="Felipe-Picture" height="150" style="border-radius:50px;" src="https://github.com/FelipeSchefer/FelipeSchefer/blob/main/ezgif-7-8945f1606f5d.gif">
+<!--   <img align="right" alt="Felipe-Picture" height="150" style="border-radius:50px;" src="https://github.com/FelipeSchefer/FelipeSchefer/blob/main/ezgif-7-8945f1606f5d.gif"> -->
 </div>
 
   ##
