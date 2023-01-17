@@ -4,10 +4,10 @@
 **FelipeSchefer/FelipeSchefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### I am Felipe Teixeira Schefer <h3>
+### My name is Felipe Teixeira Schefer <h3>
 
+#### Technologies I am used to work with:
 <div align="center">
-  #### Technologies I am used to work with:
   <a href="https://github.com/FelipeSchefer">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSchefer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSchefer&layout=compact&langs_count=7&theme=dracula"/> -->
@@ -46,7 +46,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-w
 </div>
 <br/>
 
-- 👨🏻 My name is Felipe but you can call me "Philip" or "Phi" for short.  
+- 👨🏻 I am Felipe but you can call me "Philip" or "Phi" for short.  
 - 👨🏻‍💻 I've been programming since 2019.
 - 🔭 I’m currently unemployeed. My last work was at a tech company in Brazil where workded as a Java developer.
 - 🌱 I’m currently learning React, Node.js, and TypeScript.
