@@ -25,6 +25,8 @@
 <!--    <img align="center" alt="Felipe-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg"> -->
 <!--   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   <img align="center" alt="Felipe-Java" height="45" width="55"             src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg">
+  <img align="center" alt="Felipe-Java" height="45" width="55"             src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg">
+  
   <img align="center" alt="Felipe-Spring" height="50" width="65" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Felipe-Php" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg">
@@ -48,9 +50,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-w
 
 - 👨🏻 I am Felipe but you can call me "Philip" or "Phi" for short.  
 - 👨🏻‍💻 I've been programming since 2019.
-- 🔭 I’m currently unemployeed. My last work was at a tech company in Brazil where workded as a Java developer.
+- 🔭 I’m currently working as web developer using C# as programming language.
+- 🌱 My last work was at a tech company in Brazil where workded as a Java developer.
 - 🌱 I’m currently learning React, Node.js, and TypeScript.
-- 👯 I’m looking forward to meeting, working with, and learning from other Devs.
+- 🔭 I’m looking forward to meeting, working with, and learning from other Devs.
 - 💬 Ask me about my plans and interests.
 - 📫 How to reach me: you can click on any of the above options.
 - ⚡ Fun fact: I come from being an electronic technician, who only knew how to do that and to speak his own native language to a polyglot and developer
