@@ -47,18 +47,27 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-w
 </div>
 <br/>
 
-- 👨🏻 I am Felipe but you can call me "Philip" or "Phi" for short.  
-- 👨🏻‍💻 I've been programming since 2019.
-- 🔭 I’m currently working as web developer using C# as programming language.
-- 🌱 My last work was at a tech company in Brazil where workded as a Java developer.
-- 🌱 I’m currently learning React, Node.js, and TypeScript.
-- 🔭 I’m looking forward to meeting, working with, and learning from other Devs.
-- 💬 Ask me about my plans and interests.
-- 📫 How to reach me: you can click on any of the above options.
-- ⚡ Fun fact: I come from being an electronic technician, who only knew how to do that and to speak his own native language to a polyglot and developer
-within basically 3 years, and I'm very praid of that.
+👋 Hi, I'm Felipe! You can also call me "Philip" or "Phi".
 
- 
+👨‍💻 **Professional Background:**
+- Front-end Developer with expertise in Angular and TypeScript.
+- Previous experience as a Java Developer at a tech company in Brazil.
+- Programming since 2019 with a solid foundation in both front-end and back-end technologies.
+
+🚀 **Current Endeavors:**
+- Enhancing my skills by learning React and Node.js.
+- Passionate about building scalable and efficient web applications.
+
+🤝 **Collaboration:**
+- Eager to connect with fellow developers for knowledge sharing and collaborative projects.
+- Open to new opportunities and challenges in the tech industry.
+
+📫 **Get in Touch:**
+- Feel free to reach out to me through GitHub or LinkedIn (link your LinkedIn profile).
+
+⚡ **Fun Fact:**
+- Transitioned from being an electronic technician who spoke only his native language to a polyglot and developer within three years. Proud of this journey and excited for what's next!
+
   
 ![image](https://user-images.githubusercontent.com/48191318/137594537-03e32d25-3100-454e-b713-89cf752f7cbb.png)
 ![image](https://user-images.githubusercontent.com/48191318/137594738-7a6cf264-f9d3-4952-b7b0-e589ce12df77.png)
@@ -71,9 +80,9 @@ within basically 3 years, and I'm very praid of that.
 _**Languages**_  | _**Level**_
 :--------- | :------
 Portugues  | Native
-English    | Advanced
+English    | Fluent
 Spanish    | Advanced
 French     | Beginner
-Japanese   | Very beginner 
+Japanese   | Beginner 
   
 
