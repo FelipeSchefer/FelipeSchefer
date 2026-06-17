@@ -7,11 +7,11 @@
 ### My name is Felipe Teixeira Schefer <h3>
 
 #### Technologies I am used to work with:
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/FelipeSchefer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSchefer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSchefer&layout=compact&langs_count=7&theme=dracula"/> 
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,7 +23,7 @@
   <img align="center" alt="Felipe-Java" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Felipe-C#" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   <img align="center" alt="Felipe-MySQL" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Felipe-Picture" height="150" style="border-radius:50px;" src="https://github.com/FelipeSchefer/FelipeSchefer/blob/main/ezgif-7-8945f1606f5d.gif"> 
+  <!-- <img align="right" alt="Felipe-Picture" height="150" style="border-radius:50px;" src="https://github.com/FelipeSchefer/FelipeSchefer/blob/main/ezgif-7-8945f1606f5d.gif">  -->
 </div>
 
   ##
