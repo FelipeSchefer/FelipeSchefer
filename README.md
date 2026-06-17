@@ -28,7 +28,7 @@
   <img align="center" alt="Felipe-C#" height="45" width="55"             src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg">  
 <!--   <img align="center" alt="Felipe-Spring" height="50" width="65" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"> -->
-  <img align="center" alt="Felipe-Php" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg">
+  <!-- <img align="center" alt="Felipe-Php" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg"> -->
   <img align="center" alt="Felipe-MySQL" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg">
 <!--   <img align="center" alt="Felipe-Docker" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg">
   <img align="center" alt="Felipe-Linux" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg"> -->
